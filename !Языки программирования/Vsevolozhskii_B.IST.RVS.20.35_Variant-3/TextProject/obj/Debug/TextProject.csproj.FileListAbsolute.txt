@@ -1,0 +1,7 @@
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\bin\Debug\TextProject.exe.config
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\bin\Debug\TextProject.exe
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\bin\Debug\TextProject.pdb
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\obj\Debug\TextProject.csproj.AssemblyReference.cache
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\obj\Debug\TextProject.csproj.CoreCompileInputs.cache
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\obj\Debug\TextProject.exe
+F:\student\IST\2.1 курс\!DZ\Языки программирования\Vsevolozhskii_B.IST.RVS.20.35_Variant-3\TextProject\obj\Debug\TextProject.pdb

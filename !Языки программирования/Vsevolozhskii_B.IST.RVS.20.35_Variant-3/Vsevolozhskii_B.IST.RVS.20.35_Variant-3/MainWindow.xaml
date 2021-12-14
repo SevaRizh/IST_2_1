@@ -1,0 +1,29 @@
+﻿<Window x:Class="Vsevolozhskii_B.IST.RVS._20._35_Variant_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vsevolozhskii_B.IST.RVS._20._35_Variant_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="50,80,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="520" Name="decryption" Background="#FFFDF7D4" />
+        <TextBox HorizontalAlignment="Left" Margin="50,260,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="120" Width="520" Name="encryption" Background="#FFFDF7D4" />
+
+        <Button Content="Encryption" HorizontalAlignment="Left" Margin="640,115,0,0" VerticalAlignment="Top" Height="50" Width="100" AutomationProperties.Name="btn_encryption" Click="btn_Encryption"/>
+        <Button Content="Decryption" HorizontalAlignment="Left" Margin="640,295,0,0" VerticalAlignment="Top" Height="50" Width="100" AutomationProperties.Name="btn_decryption" Click="btn_Decryption"/>
+
+        <TextBox HorizontalAlignment="Left" 
+                 Margin="250,32,0,0" 
+                 Text="4" 
+                 TextWrapping="Wrap" 
+                 VerticalAlignment="Top" 
+                 Width="40" 
+                 Name="shift_num" 
+                 AllowDrop="False" 
+                 MaxLines="2" 
+                 TextAlignment="Center" KeyDown="check_key"/>
+        <TextBlock HorizontalAlignment="Left" Margin="190,32,0,0" Text="3 - " TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="22" TextAlignment="Right" FontSize="14" Padding="1,1,1,1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="290,32,0,0" Text=" - 15" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" Height="22" FontSize="14" Padding="1,1,1,1"/>
+    </Grid>
+</Window>

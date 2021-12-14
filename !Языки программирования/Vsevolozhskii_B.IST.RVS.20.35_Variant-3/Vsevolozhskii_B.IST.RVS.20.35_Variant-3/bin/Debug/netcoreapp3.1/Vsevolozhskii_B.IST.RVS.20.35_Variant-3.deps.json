@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vsevolozhskii_B.IST.RVS.20.35_Variant-3/1.0.0": {
+        "runtime": {
+          "Vsevolozhskii_B.IST.RVS.20.35_Variant-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vsevolozhskii_B.IST.RVS.20.35_Variant-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
